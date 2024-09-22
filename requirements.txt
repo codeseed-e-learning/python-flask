@@ -1,0 +1,5 @@
+FLASK
+PyPDF2
+spacy
+flask_cors
+collections
